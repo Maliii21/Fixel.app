@@ -112,20 +112,6 @@ Developed by Computer Science students with an interest in Artificial Intelligen
 
 ---
 
-## Screenshots
-
-Add screenshots of the application interface and image enhancement results here.
-
-```bash
-screenshots/
-├── homepage.png
-├── thresholding.png
-├── gamma_correction.png
-└── morphology.png
-```
-
----
-
 ## License
 
 This project is intended for educational and learning purposes.
